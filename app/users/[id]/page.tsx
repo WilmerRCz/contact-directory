@@ -24,7 +24,7 @@ async function UsersPage (params: {params: { id: string }}) {
         </button>
       </div>
       <div className='flex justify-center'>
-        <div className='max-w-1/5 bg-white shadow-2xl rounded-xl border space-y-2 text-center cursor-pointer'>
+        <div className='max-w-1/5 bg-white shadow-2xl rounded-xl border space-y-2 p-8 text-center cursor-pointer'>
           <div className='flex justify-center items-center'>
             <div className='w-20 h-20 overflow-hidden rounded-full'>
               <img
